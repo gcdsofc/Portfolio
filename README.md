@@ -82,16 +82,6 @@ Abra o `index.html` diretamente no navegador. Sem instalação, sem servidor.
 
 ---
 
-## 🗺️ Cronograma de projetos
-
-| Degrau | Projeto | Status |
-|---|---|---|
-| 1A | Scripts em Python | ✅ Concluído |
-| 1B | Scripts em JavaScript | ✅ Concluído |
-| **2** | **Portfólio — HTML/CSS/JS** | ✅ Concluído |
-| 3 | API com Node.js + Banco de Dados | 🔜 Em breve |
-| 4 | Site completo — Barbearia | 🔜 Em breve |
-| 5 | Docker + Deploy em produção | 🔜 Em breve |
 
 ---
 
